@@ -1,0 +1,19 @@
+{
+  "name": "cabinet-cooler",
+  "version": "1.0.0",
+  "description": "Cabinet cooler johnny-five app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uofifox/cabinet-cooler.git"
+  },
+  "author": "Steve Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uofifox/cabinet-cooler/issues"
+  },
+  "homepage": "https://github.com/uofifox/cabinet-cooler#readme"
+}
