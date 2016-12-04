@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/uofifox/cabinet-cooler/issues"
   },
-  "homepage": "https://github.com/uofifox/cabinet-cooler#readme"
+  "homepage": "https://github.com/uofifox/cabinet-cooler#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "particle-io": "^0.14.0"
+  }
 }
