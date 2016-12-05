@@ -1,0 +1,9 @@
+{
+	"particleIo": {
+		"token": "162480d2af7b7fad4ed0f61e68cbfabbeb68dc5b",
+		"deviceId": "2d0040001147353138383138"
+	},
+	"threshold": {
+		"temperature": 70
+	}
+}
