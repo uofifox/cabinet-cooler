@@ -27,6 +27,11 @@ board.on('ready', function() {
 	// let currentTemperatureValue = false;
 	// ledControl.blink();
 
+/*
+ reading = (1023 / reading)  - 1;
+  reading = SERIESRESISTOR / reading;
+*/
+
 
 	const temperature = new five.Thermometer({
 		pin: 'A2'
